@@ -1,0 +1,16 @@
+.trip {
+    margin: 10px 100px 10px 100px;
+}
+
+.images {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    text-align:center;
+    width: 60%;
+    font-size:80%;
+}
+
+.images .caption {
+    padding-bottom: 15px;
+}
