@@ -11,6 +11,11 @@
     font-size:80%;
 }
 
+.images .img {
+    width: 100%;
+    max-width: 100%;
+}
+
 .images .caption {
     padding-bottom: 15px;
 }
