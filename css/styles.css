@@ -1,5 +1,5 @@
 .trip {
-    margin: 10px 100px 10px 100px;
+    margin: 10px 10% 10px 10%;
 }
 
 .images {
@@ -11,7 +11,7 @@
     font-size:80%;
 }
 
-.images .img {
+.images img {
     width: 100%;
     max-width: 100%;
 }
